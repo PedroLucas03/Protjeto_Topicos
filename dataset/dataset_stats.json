@@ -1,0 +1,728 @@
+{
+  "train": 14357,
+  "validation": 3082,
+  "test": 3141,
+  "total": 20580,
+  "racas": {
+    "n02085620-Chihuahua": {
+      "total": 152,
+      "train": 106,
+      "validation": 23,
+      "test": 23
+    },
+    "n02085782-Japanese_spaniel": {
+      "total": 185,
+      "train": 129,
+      "validation": 28,
+      "test": 28
+    },
+    "n02085936-Maltese_dog": {
+      "total": 252,
+      "train": 176,
+      "validation": 38,
+      "test": 38
+    },
+    "n02086079-Pekinese": {
+      "total": 149,
+      "train": 104,
+      "validation": 22,
+      "test": 23
+    },
+    "n02086240-Shih-Tzu": {
+      "total": 214,
+      "train": 149,
+      "validation": 32,
+      "test": 33
+    },
+    "n02086646-Blenheim_spaniel": {
+      "total": 188,
+      "train": 131,
+      "validation": 28,
+      "test": 29
+    },
+    "n02086910-papillon": {
+      "total": 196,
+      "train": 137,
+      "validation": 29,
+      "test": 30
+    },
+    "n02087046-toy_terrier": {
+      "total": 172,
+      "train": 120,
+      "validation": 26,
+      "test": 26
+    },
+    "n02087394-Rhodesian_ridgeback": {
+      "total": 172,
+      "train": 120,
+      "validation": 26,
+      "test": 26
+    },
+    "n02088094-Afghan_hound": {
+      "total": 239,
+      "train": 167,
+      "validation": 36,
+      "test": 36
+    },
+    "n02088238-basset": {
+      "total": 175,
+      "train": 122,
+      "validation": 26,
+      "test": 27
+    },
+    "n02088364-beagle": {
+      "total": 195,
+      "train": 136,
+      "validation": 29,
+      "test": 30
+    },
+    "n02088466-bloodhound": {
+      "total": 187,
+      "train": 130,
+      "validation": 28,
+      "test": 29
+    },
+    "n02088632-bluetick": {
+      "total": 171,
+      "train": 119,
+      "validation": 26,
+      "test": 26
+    },
+    "n02089078-black-and-tan_coonhound": {
+      "total": 159,
+      "train": 111,
+      "validation": 24,
+      "test": 24
+    },
+    "n02089867-Walker_hound": {
+      "total": 153,
+      "train": 107,
+      "validation": 23,
+      "test": 23
+    },
+    "n02089973-English_foxhound": {
+      "total": 157,
+      "train": 109,
+      "validation": 24,
+      "test": 24
+    },
+    "n02090379-redbone": {
+      "total": 148,
+      "train": 103,
+      "validation": 22,
+      "test": 23
+    },
+    "n02090622-borzoi": {
+      "total": 151,
+      "train": 105,
+      "validation": 23,
+      "test": 23
+    },
+    "n02090721-Irish_wolfhound": {
+      "total": 218,
+      "train": 152,
+      "validation": 33,
+      "test": 33
+    },
+    "n02091032-Italian_greyhound": {
+      "total": 182,
+      "train": 127,
+      "validation": 27,
+      "test": 28
+    },
+    "n02091134-whippet": {
+      "total": 187,
+      "train": 130,
+      "validation": 28,
+      "test": 29
+    },
+    "n02091244-Ibizan_hound": {
+      "total": 188,
+      "train": 131,
+      "validation": 28,
+      "test": 29
+    },
+    "n02091467-Norwegian_elkhound": {
+      "total": 196,
+      "train": 137,
+      "validation": 29,
+      "test": 30
+    },
+    "n02091635-otterhound": {
+      "total": 151,
+      "train": 105,
+      "validation": 23,
+      "test": 23
+    },
+    "n02091831-Saluki": {
+      "total": 200,
+      "train": 140,
+      "validation": 30,
+      "test": 30
+    },
+    "n02092002-Scottish_deerhound": {
+      "total": 232,
+      "train": 162,
+      "validation": 35,
+      "test": 35
+    },
+    "n02092339-Weimaraner": {
+      "total": 160,
+      "train": 112,
+      "validation": 24,
+      "test": 24
+    },
+    "n02093256-Staffordshire_bullterrier": {
+      "total": 155,
+      "train": 108,
+      "validation": 23,
+      "test": 24
+    },
+    "n02093428-American_Staffordshire_terrier": {
+      "total": 164,
+      "train": 114,
+      "validation": 25,
+      "test": 25
+    },
+    "n02093647-Bedlington_terrier": {
+      "total": 182,
+      "train": 127,
+      "validation": 27,
+      "test": 28
+    },
+    "n02093754-Border_terrier": {
+      "total": 172,
+      "train": 120,
+      "validation": 26,
+      "test": 26
+    },
+    "n02093859-Kerry_blue_terrier": {
+      "total": 179,
+      "train": 125,
+      "validation": 27,
+      "test": 27
+    },
+    "n02093991-Irish_terrier": {
+      "total": 169,
+      "train": 118,
+      "validation": 25,
+      "test": 26
+    },
+    "n02094114-Norfolk_terrier": {
+      "total": 172,
+      "train": 120,
+      "validation": 26,
+      "test": 26
+    },
+    "n02094258-Norwich_terrier": {
+      "total": 185,
+      "train": 129,
+      "validation": 28,
+      "test": 28
+    },
+    "n02094433-Yorkshire_terrier": {
+      "total": 164,
+      "train": 114,
+      "validation": 25,
+      "test": 25
+    },
+    "n02095314-wire-haired_fox_terrier": {
+      "total": 157,
+      "train": 109,
+      "validation": 24,
+      "test": 24
+    },
+    "n02095570-Lakeland_terrier": {
+      "total": 197,
+      "train": 137,
+      "validation": 30,
+      "test": 30
+    },
+    "n02095889-Sealyham_terrier": {
+      "total": 202,
+      "train": 141,
+      "validation": 30,
+      "test": 31
+    },
+    "n02096051-Airedale": {
+      "total": 202,
+      "train": 141,
+      "validation": 30,
+      "test": 31
+    },
+    "n02096177-cairn": {
+      "total": 197,
+      "train": 137,
+      "validation": 30,
+      "test": 30
+    },
+    "n02096294-Australian_terrier": {
+      "total": 196,
+      "train": 137,
+      "validation": 29,
+      "test": 30
+    },
+    "n02096437-Dandie_Dinmont": {
+      "total": 180,
+      "train": 126,
+      "validation": 27,
+      "test": 27
+    },
+    "n02096585-Boston_bull": {
+      "total": 182,
+      "train": 127,
+      "validation": 27,
+      "test": 28
+    },
+    "n02097047-miniature_schnauzer": {
+      "total": 154,
+      "train": 107,
+      "validation": 23,
+      "test": 24
+    },
+    "n02097130-giant_schnauzer": {
+      "total": 157,
+      "train": 109,
+      "validation": 24,
+      "test": 24
+    },
+    "n02097209-standard_schnauzer": {
+      "total": 155,
+      "train": 108,
+      "validation": 23,
+      "test": 24
+    },
+    "n02097298-Scotch_terrier": {
+      "total": 158,
+      "train": 110,
+      "validation": 24,
+      "test": 24
+    },
+    "n02097474-Tibetan_terrier": {
+      "total": 206,
+      "train": 144,
+      "validation": 31,
+      "test": 31
+    },
+    "n02097658-silky_terrier": {
+      "total": 183,
+      "train": 128,
+      "validation": 27,
+      "test": 28
+    },
+    "n02098105-soft-coated_wheaten_terrier": {
+      "total": 156,
+      "train": 109,
+      "validation": 23,
+      "test": 24
+    },
+    "n02098286-West_Highland_white_terrier": {
+      "total": 169,
+      "train": 118,
+      "validation": 25,
+      "test": 26
+    },
+    "n02098413-Lhasa": {
+      "total": 186,
+      "train": 130,
+      "validation": 28,
+      "test": 28
+    },
+    "n02099267-flat-coated_retriever": {
+      "total": 152,
+      "train": 106,
+      "validation": 23,
+      "test": 23
+    },
+    "n02099429-curly-coated_retriever": {
+      "total": 151,
+      "train": 105,
+      "validation": 23,
+      "test": 23
+    },
+    "n02099601-golden_retriever": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02099712-Labrador_retriever": {
+      "total": 171,
+      "train": 119,
+      "validation": 26,
+      "test": 26
+    },
+    "n02099849-Chesapeake_Bay_retriever": {
+      "total": 167,
+      "train": 116,
+      "validation": 25,
+      "test": 26
+    },
+    "n02100236-German_short-haired_pointer": {
+      "total": 152,
+      "train": 106,
+      "validation": 23,
+      "test": 23
+    },
+    "n02100583-vizsla": {
+      "total": 154,
+      "train": 107,
+      "validation": 23,
+      "test": 24
+    },
+    "n02100735-English_setter": {
+      "total": 161,
+      "train": 112,
+      "validation": 24,
+      "test": 25
+    },
+    "n02100877-Irish_setter": {
+      "total": 155,
+      "train": 108,
+      "validation": 23,
+      "test": 24
+    },
+    "n02101006-Gordon_setter": {
+      "total": 153,
+      "train": 107,
+      "validation": 23,
+      "test": 23
+    },
+    "n02101388-Brittany_spaniel": {
+      "total": 152,
+      "train": 106,
+      "validation": 23,
+      "test": 23
+    },
+    "n02101556-clumber": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02102040-English_springer": {
+      "total": 159,
+      "train": 111,
+      "validation": 24,
+      "test": 24
+    },
+    "n02102177-Welsh_springer_spaniel": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02102318-cocker_spaniel": {
+      "total": 159,
+      "train": 111,
+      "validation": 24,
+      "test": 24
+    },
+    "n02102480-Sussex_spaniel": {
+      "total": 151,
+      "train": 105,
+      "validation": 23,
+      "test": 23
+    },
+    "n02102973-Irish_water_spaniel": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02104029-kuvasz": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02104365-schipperke": {
+      "total": 154,
+      "train": 107,
+      "validation": 23,
+      "test": 24
+    },
+    "n02105056-groenendael": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02105162-malinois": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02105251-briard": {
+      "total": 152,
+      "train": 106,
+      "validation": 23,
+      "test": 23
+    },
+    "n02105412-kelpie": {
+      "total": 153,
+      "train": 107,
+      "validation": 23,
+      "test": 23
+    },
+    "n02105505-komondor": {
+      "total": 154,
+      "train": 107,
+      "validation": 23,
+      "test": 24
+    },
+    "n02105641-Old_English_sheepdog": {
+      "total": 169,
+      "train": 118,
+      "validation": 25,
+      "test": 26
+    },
+    "n02105855-Shetland_sheepdog": {
+      "total": 157,
+      "train": 109,
+      "validation": 24,
+      "test": 24
+    },
+    "n02106030-collie": {
+      "total": 153,
+      "train": 107,
+      "validation": 23,
+      "test": 23
+    },
+    "n02106166-Border_collie": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02106382-Bouvier_des_Flandres": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02106550-Rottweiler": {
+      "total": 152,
+      "train": 106,
+      "validation": 23,
+      "test": 23
+    },
+    "n02106662-German_shepherd": {
+      "total": 152,
+      "train": 106,
+      "validation": 23,
+      "test": 23
+    },
+    "n02107142-Doberman": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02107312-miniature_pinscher": {
+      "total": 184,
+      "train": 128,
+      "validation": 28,
+      "test": 28
+    },
+    "n02107574-Greater_Swiss_Mountain_dog": {
+      "total": 168,
+      "train": 117,
+      "validation": 25,
+      "test": 26
+    },
+    "n02107683-Bernese_mountain_dog": {
+      "total": 218,
+      "train": 152,
+      "validation": 33,
+      "test": 33
+    },
+    "n02107908-Appenzeller": {
+      "total": 151,
+      "train": 105,
+      "validation": 23,
+      "test": 23
+    },
+    "n02108000-EntleBucher": {
+      "total": 202,
+      "train": 141,
+      "validation": 30,
+      "test": 31
+    },
+    "n02108089-boxer": {
+      "total": 151,
+      "train": 105,
+      "validation": 23,
+      "test": 23
+    },
+    "n02108422-bull_mastiff": {
+      "total": 156,
+      "train": 109,
+      "validation": 23,
+      "test": 24
+    },
+    "n02108551-Tibetan_mastiff": {
+      "total": 152,
+      "train": 106,
+      "validation": 23,
+      "test": 23
+    },
+    "n02108915-French_bulldog": {
+      "total": 159,
+      "train": 111,
+      "validation": 24,
+      "test": 24
+    },
+    "n02109047-Great_Dane": {
+      "total": 156,
+      "train": 109,
+      "validation": 23,
+      "test": 24
+    },
+    "n02109525-Saint_Bernard": {
+      "total": 170,
+      "train": 119,
+      "validation": 25,
+      "test": 26
+    },
+    "n02109961-Eskimo_dog": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02110063-malamute": {
+      "total": 178,
+      "train": 124,
+      "validation": 27,
+      "test": 27
+    },
+    "n02110185-Siberian_husky": {
+      "total": 192,
+      "train": 134,
+      "validation": 29,
+      "test": 29
+    },
+    "n02110627-affenpinscher": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02110806-basenji": {
+      "total": 209,
+      "train": 146,
+      "validation": 31,
+      "test": 32
+    },
+    "n02110958-pug": {
+      "total": 200,
+      "train": 140,
+      "validation": 30,
+      "test": 30
+    },
+    "n02111129-Leonberg": {
+      "total": 210,
+      "train": 147,
+      "validation": 31,
+      "test": 32
+    },
+    "n02111277-Newfoundland": {
+      "total": 195,
+      "train": 136,
+      "validation": 29,
+      "test": 30
+    },
+    "n02111500-Great_Pyrenees": {
+      "total": 213,
+      "train": 149,
+      "validation": 32,
+      "test": 32
+    },
+    "n02111889-Samoyed": {
+      "total": 218,
+      "train": 152,
+      "validation": 33,
+      "test": 33
+    },
+    "n02112018-Pomeranian": {
+      "total": 219,
+      "train": 153,
+      "validation": 33,
+      "test": 33
+    },
+    "n02112137-chow": {
+      "total": 196,
+      "train": 137,
+      "validation": 29,
+      "test": 30
+    },
+    "n02112350-keeshond": {
+      "total": 158,
+      "train": 110,
+      "validation": 24,
+      "test": 24
+    },
+    "n02112706-Brabancon_griffon": {
+      "total": 153,
+      "train": 107,
+      "validation": 23,
+      "test": 23
+    },
+    "n02113023-Pembroke": {
+      "total": 181,
+      "train": 126,
+      "validation": 27,
+      "test": 28
+    },
+    "n02113186-Cardigan": {
+      "total": 155,
+      "train": 108,
+      "validation": 23,
+      "test": 24
+    },
+    "n02113624-toy_poodle": {
+      "total": 151,
+      "train": 105,
+      "validation": 23,
+      "test": 23
+    },
+    "n02113712-miniature_poodle": {
+      "total": 155,
+      "train": 108,
+      "validation": 23,
+      "test": 24
+    },
+    "n02113799-standard_poodle": {
+      "total": 159,
+      "train": 111,
+      "validation": 24,
+      "test": 24
+    },
+    "n02113978-Mexican_hairless": {
+      "total": 155,
+      "train": 108,
+      "validation": 23,
+      "test": 24
+    },
+    "n02115641-dingo": {
+      "total": 156,
+      "train": 109,
+      "validation": 23,
+      "test": 24
+    },
+    "n02115913-dhole": {
+      "total": 150,
+      "train": 105,
+      "validation": 22,
+      "test": 23
+    },
+    "n02116738-African_hunting_dog": {
+      "total": 169,
+      "train": 118,
+      "validation": 25,
+      "test": 26
+    }
+  }
+}

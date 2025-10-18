@@ -1,0 +1,189 @@
+{
+  "total_racas": 30,
+  "total_imagens": 5472,
+  "racas": {
+    "n02091831-Saluki": {
+      "train": 140,
+      "total": 200,
+      "validation": 30,
+      "test": 30
+    },
+    "n02090721-Irish_wolfhound": {
+      "train": 152,
+      "total": 218,
+      "validation": 33,
+      "test": 33
+    },
+    "n02092002-Scottish_deerhound": {
+      "train": 162,
+      "total": 232,
+      "validation": 35,
+      "test": 35
+    },
+    "n02088094-Afghan_hound": {
+      "train": 167,
+      "total": 239,
+      "validation": 36,
+      "test": 36
+    },
+    "n02087394-Rhodesian_ridgeback": {
+      "train": 120,
+      "total": 172,
+      "validation": 26,
+      "test": 26
+    },
+    "n02100583-vizsla": {
+      "train": 107,
+      "total": 154,
+      "validation": 23,
+      "test": 24
+    },
+    "n02092339-Weimaraner": {
+      "train": 112,
+      "total": 160,
+      "validation": 24,
+      "test": 24
+    },
+    "n02089973-English_foxhound": {
+      "train": 109,
+      "total": 157,
+      "validation": 24,
+      "test": 24
+    },
+    "n02091467-Norwegian_elkhound": {
+      "train": 137,
+      "total": 196,
+      "validation": 29,
+      "test": 30
+    },
+    "n02093754-Border_terrier": {
+      "train": 120,
+      "total": 172,
+      "validation": 26,
+      "test": 26
+    },
+    "n02085620-Chihuahua": {
+      "train": 106,
+      "total": 152,
+      "validation": 23,
+      "test": 23
+    },
+    "n02112018-Pomeranian": {
+      "train": 153,
+      "total": 219,
+      "validation": 33,
+      "test": 33
+    },
+    "n02086240-Shih-Tzu": {
+      "train": 149,
+      "total": 214,
+      "validation": 32,
+      "test": 33
+    },
+    "n02085936-Maltese_dog": {
+      "train": 176,
+      "total": 252,
+      "validation": 38,
+      "test": 38
+    },
+    "n02087046-toy_terrier": {
+      "train": 120,
+      "total": 172,
+      "validation": 26,
+      "test": 26
+    },
+    "n02115641-dingo": {
+      "train": 109,
+      "total": 156,
+      "validation": 23,
+      "test": 24
+    },
+    "n02116738-African_hunting_dog": {
+      "train": 118,
+      "total": 169,
+      "validation": 25,
+      "test": 26
+    },
+    "n02093647-Bedlington_terrier": {
+      "train": 127,
+      "total": 182,
+      "validation": 27,
+      "test": 28
+    },
+    "n02094258-Norwich_terrier": {
+      "train": 129,
+      "total": 185,
+      "validation": 28,
+      "test": 28
+    },
+    "n02096051-Airedale": {
+      "train": 141,
+      "total": 202,
+      "validation": 30,
+      "test": 31
+    },
+    "n02108089-boxer": {
+      "train": 105,
+      "total": 151,
+      "validation": 23,
+      "test": 23
+    },
+    "n02108422-bull_mastiff": {
+      "train": 109,
+      "total": 156,
+      "validation": 23,
+      "test": 24
+    },
+    "n02109047-Great_Dane": {
+      "train": 109,
+      "total": 156,
+      "validation": 23,
+      "test": 24
+    },
+    "n02106030-collie": {
+      "train": 107,
+      "total": 153,
+      "validation": 23,
+      "test": 23
+    },
+    "n02105641-Old_English_sheepdog": {
+      "train": 118,
+      "total": 169,
+      "validation": 25,
+      "test": 26
+    },
+    "n02102318-cocker_spaniel": {
+      "train": 111,
+      "total": 159,
+      "validation": 24,
+      "test": 24
+    },
+    "n02099601-golden_retriever": {
+      "train": 105,
+      "total": 150,
+      "validation": 22,
+      "test": 23
+    },
+    "n02099712-Labrador_retriever": {
+      "train": 119,
+      "total": 171,
+      "validation": 26,
+      "test": 26
+    },
+    "n02111889-Samoyed": {
+      "train": 152,
+      "total": 218,
+      "validation": 33,
+      "test": 33
+    },
+    "n02098413-Lhasa": {
+      "train": 130,
+      "total": 186,
+      "validation": 28,
+      "test": 28
+    }
+  },
+  "train": 3819,
+  "validation": 821,
+  "test": 832
+}
