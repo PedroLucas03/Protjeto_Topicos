@@ -12,8 +12,8 @@ class PreditorRacasCachorros:
     
     def __init__(self):
         
-        self.model_path = "models/modelo_efficientnet_corrigido_final.h5"
-        self.class_mapping_path = "class_mapping.json"
+        self.model_path = "models/modelo_efficientnet_final.h5"
+        self.class_mapping_path = "class_mapping_correto.json"
         
         if not os.path.exists(self.model_path):
             raise FileNotFoundError(f"Modelo não encontrado: {self.model_path}")

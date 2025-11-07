@@ -1,4 +1,3 @@
-
 Toy Terrier 100% (26 amostras testadas)
 Afghan Hound (Galgo Afegão) - 100% (36 amostras)  
 English Foxhound - 100% (24 amostras)
@@ -36,8 +35,7 @@ Rhodesian Ridgeback 76.9% (26 amostras)
 Shih-Tzu75.8% (33 amostras)
 
 
-python preditor.py caminho/para/sua/foto_do_cao.jpg
-
+python preditor.py nomedaimagem.jgp
 
 ESTATÍSTICAS GERAIS
 

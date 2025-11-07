@@ -10,7 +10,6 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.applications.efficientnet import preprocess_input
 
 def avaliar_modelo_corrigido():    
-    # Caminhos
     modelo_path = "models/modelo_efficientnet_corrigido_final.h5"
     dataset_path = "dataset_30_racas"
     
